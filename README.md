@@ -1,5 +1,5 @@
 
-# DeepSeek-R1: Next-Generation Local Reasoning Model 🚀
+# DeepSeek-R1: Next-Generation Local Reasoning Model 
 
 Experience cutting-edge reasoning directly in your browser with **DeepSeek-R1**, a 1.5B parameter model powered by WebGPU. Everything runs locally with **no data sent to servers**, ensuring privacy and performance. Built with 🤗 **Transformers.js** and **ONNX Runtime Web**, it’s lightweight, offline-capable, and blazing-fast at **60 tokens per second**. More information can be found [here](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf).
 
@@ -9,13 +9,13 @@ DeepSeek-R1 is designed for developers, researchers, and enthusiasts who need a 
 
 ## Features
 
-- **Local Execution**: Runs entirely in your browser—no external dependencies or server-side processing.
+- **Local Execution**: Runs entirely in your browser—no external dependencies or server-side processing using php.
 - **WebGPU Acceleration**: Leverages WebGPU for fast, efficient computation.
 - **Offline Support**: Once loaded, you can use the model without an internet connection.
 - **Privacy First**: All processing stays on your device.
 - **Open Source**: Fully transparent, with source code available on [GitHub](https://github.com/iamgmujtaba/deepseek-r1).
 
-Note: Code is tested on MacOS and Linux (Ubuntu)
+Note: Code is tested on MacOS and Linux (Ubuntu). 
 
 ## Getting Started
 
