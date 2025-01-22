@@ -46,6 +46,11 @@ Start the local development server with:
 bash run.sh
 ```
 
+### 4. Example
+
+https://github.com/user-attachments/assets/8ca9c2fa-5b92-401b-bf05-d041ee730504
+
+
 The application will open automatically in your default web browser at `http://localhost:8000`.
 
 
